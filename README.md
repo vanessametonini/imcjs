@@ -1,4 +1,4 @@
 imcjs
 =====
 
-Javascript code for BMI
+Programinha em js + html pra calcular o imc
